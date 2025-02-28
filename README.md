@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @massa-ngl
-- 👀 I’m interested in becoming a better developer
+- 👀 I’m interested in becoming a better frontend developer
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me ...
